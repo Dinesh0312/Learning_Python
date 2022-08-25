@@ -114,3 +114,7 @@ print(s2.avg())
 print(Student.School)
 
 Student.Info()
+
+
+
+print("how are you")
