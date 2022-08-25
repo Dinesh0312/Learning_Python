@@ -1,0 +1,4 @@
+Hi, Hello World
+Apple is RED 
+Orange is Yellow
+An Elephant
